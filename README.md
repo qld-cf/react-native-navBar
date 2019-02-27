@@ -1,4 +1,4 @@
-# react-native-navigationBar
+# react-native-navBar
 标题栏NavigationBar组件 <br/>
 
 ![](nav.png)
